@@ -7,8 +7,6 @@
 
 ## :sassy_man:  About me
 
-- :technologist: A passionate to be `full stack developer`
-
 - 🌱 I’m currently Student at `lenora college of engineering`
 
 - :computer: Aiming to be a `Full Stack Developer`
