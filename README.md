@@ -3,7 +3,11 @@
 
 
 <h1 align="center"> I'm UDAY RAMA KOTESWA RAO NALABOTHU</h1>
-<h3 align="center">A passionate to be full stack developer</h3>
+
+
+## :sassy_man:  About me
+
+- :technologist: A passionate to be `full stack developer`
 
 - 🌱 I’m currently Student at `lenora college of engineering`
 
@@ -11,7 +15,7 @@
 
 - -:nerd_face: Always `learning new things`
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact ``I think I am funny``
 
 - 📫 How to reach me **udayramakoteswarao.2002@gmail.com**
 
