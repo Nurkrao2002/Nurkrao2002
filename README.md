@@ -31,7 +31,7 @@
 <a href="https://fb.com/uday rama koteswa rao nalabothu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uday rama koteswa rao nalabothu" height="30" width="40" /></a>
 <a href="https://instagram.com/udayramakoteswarao_nalabothu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udayramakoteswarao_nalabothu" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/udaynalabothu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="udaynalabothu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@udayramakoteswa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@udayramakoteswa1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/udaynalabothu24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="udaynalabothu24" height="30" width="40" /></a>
 </p>
 
 
