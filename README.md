@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently Student at `lenora college of engineering`
 
-- :computer: Aiming for `Full Stack Developer`
+- :computer: Aiming to be a `Full Stack Developer`
 
 - -:nerd_face: Always `learning new things`
 
