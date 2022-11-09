@@ -11,7 +11,7 @@
 
 - :computer: Aiming to be a `Full Stack Developer`
 
-- -:nerd_face: Always `learning new things`
+- :nerd_face: Always `learning new things`
 
 - ⚡ Fun fact ``I think I am funny``
 
