@@ -2,12 +2,12 @@
 
 
 
-<h1 align="center"> I'm UDAY RAMA KOTESWA RAO NALABOTHU</h1>
+<h1 align="center"> I'm Uday Rama Koteswa Rao Nalabothu</h1>
 
 
 ## :sassy_man:  About me
 
-- 🌱 I’m currently Student at `lenora college of engineering`
+- 🌱 I’m currently a Student at `Lenora College of Engineering`
 
 - :computer: Aiming to be a `Full Stack Developer`
 
@@ -38,9 +38,9 @@
 
 ### 👉 Programming languages
 <p align="center"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="no-referrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   &emsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="no-referrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
 </p>
 
@@ -48,9 +48,9 @@
    ### 👉 Frontend Development
    
 <p align="center">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a              href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a              href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="no-referrer">
    &emsp;
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="no-referrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
    </a>
   </p>
  
