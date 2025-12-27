@@ -1,104 +1,148 @@
-### Hi there 👋
+<!-- =========================
+     GitHub Profile README
+     Uday Rama Koteswa Rao Nalabothu
+========================= -->
 
-
-
-<h1 align="center"> I'm Uday Rama Koteswa Rao Nalabothu</h1>
-
-
-## :sassy_man:  About me
-
-- 🌱 I’m currently a Student at `Lenora College of Engineering`
-
-- :computer: Aiming to be a `Full Stack Developer`
-
-- :nerd_face: Always `learning new things`
-
-- ⚡ Fun fact ``I think I am funny``
-
-- 📫 How to reach me **udayramakoteswarao.2002@gmail.com**
-
-- To know about me [https://www.linkedin.com/in/uday-rama-koteswa-rao-nalabothu-267a5a1a5/](https://www.linkedin.com/in/uday-rama-koteswa-rao-nalabothu-267a5a1a5/)
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@n_u_r_k_rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@n_u_r_k_rao" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/uday-rama-koteswa-rao-nalabothu-267a5a1a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/uday-rama-koteswa-rao-nalabothu-267a5a1a5" height="30" width="40" /></a>
-<a href="https://fb.com/udayramakoteswarao.nalabothu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="udayramakoteswarao.nalabothu" height="30" width="40" /></a>
-<a href="https://instagram.com/udayramakoteswarao_nalabothu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udayramakoteswarao_nalabothu" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/udaynalabothu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="udaynalabothu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/udaynalabothu24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="udaynalabothu24" height="30" width="40" /></a>
-</p>
-
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-<p align="center"> 
-<a href="https://www.python.org" target="_blank" rel="no-referrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  &emsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="no-referrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
-</p>
-
-   
-   ### 👉 Frontend Development
-   
-<p align="center">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a              href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="no-referrer">
-   &emsp;
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="no-referrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-   </a>
-  </p>
- 
-
- ### 👉 Software & Tools
- 
- <p align="center">
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
- &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-
- ### 👉 Databases
- 
-  <p align="center">
-     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/img> </a>
-      &emsp;
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
-
-  
- 
- ### 👉 IDEs
- 
- <p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-    
-
-### 👉 Competitive Programming & Problem Solving
+<h1 align="center">Hi 👋, I'm Uday Rama Koteswa Rao Nalabothu</h1>
+<h3 align="center">AI Engineer | AI Automation • Model/API Integration • Applied ML | Full-Stack (React + Node.js)</h3>
 
 <p align="center">
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-    &emsp;
-    <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-   &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-
-
-
-### 👉 Operating Systems
+  <a href="https://komarev.com/ghpvc/?username=Nurkrao2002">
+    <img src="https://komarev.com/ghpvc/?username=Nurkrao2002&label=Profile%20views&style=flat" alt="profile views" />
+  </a>
+</p>
 
 <p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>	  
+  <a href="https://www.linkedin.com/in/uday-rama-koteswa-rao-nalabothu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:udayramakoteswarao.2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-udayramakoteswarao.2002%40gmail.com-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://nalabothu.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel" />
+  </a>
+  <a href="https://replit.com/@Nurkrao2002" target="_blank">
+    <img src="https://img.shields.io/badge/Replit-Profile-orange?style=flat&logo=replit&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 **AI Engineer @ PigeonTech (Hamilton, Ohio, US)** *(Nov 2025 – Present)*
+- 🧠 Focus: **AI-driven automation, model/API integration, applied machine learning, intelligent system design**
+- ⚡ Also experienced in **front-end–focused full-stack development** using **React + Node.js**
+- 🤝 I enjoy collaborating across teams and supporting real-world deployments
+- 🌱 Always learning through hands-on building + certifications
+- 📍 Hyderabad, India (open to global collaboration)
+
+---
+
+## 🧩 What I Do
+
+- **AI Automation & Integration:** Build workflows that connect models/APIs to business use-cases  
+- **Applied ML:** Assist in development, testing, and deployment of ML solutions  
+- **Full-Stack Delivery:** Build clean UI + reliable backend services (React, Node.js, REST APIs)  
+- **Databases:** Design and work with SQL/NoSQL systems  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Core
+<p>
+  <img src="https://img.shields.io/badge/Python-Programming-blue?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Web-yellow?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-API-black?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-Integration-lightgrey?style=flat" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Querying-lightgrey?style=flat" />
+</p>
+
+### 🧰 Tools & OS
+<p>
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Kali%20%7C%20Fedora%20%7C%20Debian-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-OS-0078D6?style=flat&logo=windows&logoColor=white" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- 🌐 **Portfolio Website** — React + Bootstrap  
+  🔗 https://nalabothu.netlify.app
+
+- 🗃️ **Web-Based Database Management System** — React, Express, Node.js, PostgreSQL  
+  🔗 (Add repo link) `YOUR_REPO_LINK`
+
+- 🤖 **Advanced Military Surveillance Robot (Android + Bluetooth)** — IoT + Remote Control  
+  🔗 (Add repo link) `YOUR_REPO_LINK`
+
+- 📊 **COVID-19 Data Analysis** — trend analysis + dashboards  
+  🔗 (Add repo link) `YOUR_REPO_LINK`
+
+---
+
+## 🎓 Certifications
+
+- ✅ 5-Day AI Agents Intensive Course — **Google**
+- ✅ Gemini Certified University Student — **Google**
+- ✅ AI for React Developers — **LinkedIn**
+- ✅ Introduction to Front-End Development — **Meta**
+- ✅ Networking Essentials — **Cisco**
+- ✅ Crash Course on Python — **Google**
+- ✅ NDG Linux Essentials — **Cisco Networking Academy**
+- ✅ Fundamentals of Network Security — **Palo Alto Networks**
+- ✅ Learning to Build an E-Commerce Store with .NET, React — **Udemy**
+- ✅ Python Full-Stack Web Development — **Josh Innovations Institute**
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/uday-rama-koteswa-rao-nalabothu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-uday--rama--koteswa--rao--nalabothu-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:udayramakoteswarao.2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-udayramakoteswarao.2002%40gmail.com-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Nurkrao2002" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Nurkrao2002-black?style=flat&logo=github" />
+  </a>
+  <a href="https://replit.com/@Nurkrao2002" target="_blank">
+    <img src="https://img.shields.io/badge/Replit-Nurkrao2002-orange?style=flat&logo=replit&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nurkrao2002&show_icons=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurkrao2002&layout=compact" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nurkrao2002" height="170" />
+</p>
+
+---
+
+### 🌟 A little more
+- 🗣️ Languages: Telugu (Native), English (Intermediate), Hindi (Intermediate)
+- 🎯 Interests: Building scalable AI products, automation, smart systems, full-stack apps
+- 🎵 Hobbies: Exploring tech, repairing gadgets, music, cooking, badminton
